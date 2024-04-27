@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+.thumbnail-image {
+  margin-right: 5px;
+}
+.button {
+  background-color: transparent;
+  border-width: 0px;
+  opacity: 0.5;
+}
+.additional {
+  opacity: 1;
+}
